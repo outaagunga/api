@@ -1,0 +1,82 @@
+[
+  {
+    "carts": [],
+    "description": "A classic long trouser that explores themes of wealth, love, and the American Dream in the 1920s.",
+    "id": 1,
+    "image_url": "https://images.pexels.com/photos/256450/pexels-photo-256450.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "price": 10.99,
+    "title": "Khaki Size 32"
+  },
+  {
+    "carts": [],
+    "description": "Discover Hisense's latest smart TV & entertainment system, appliances, and smartphones designed for your pleasure and convenience.",
+    "id": 2,
+    "image_url": "https://images.pexels.com/photos/5202925/pexels-photo-5202925.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "price": 40000.0,
+    "title": "Hisense 48 inches Smart TV"
+  },
+  {
+    "carts": [],
+    "description": "High-quality wireless earbuds with noise-canceling technology for an immersive audio experience.",
+    "id": 3,
+    "image_url": "https://images.pexels.com/photos/8534088/pexels-photo-8534088.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "price": 49.99,
+    "title": "Wireless Bluetooth Earbuds"
+  },
+  {
+    "carts": [],
+    "description": "Elegant leather handbag with multiple compartments, perfect for any occasion.",
+    "id": 4,
+    "image_url": "https://images.pexels.com/photos/904350/pexels-photo-904350.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "price": 199.99,
+    "title": "Designer Leather Handbag"
+  },
+  {
+    "carts": [],
+    "description": "A versatile smartphone stand with a built-in wireless charger, ideal for keeping your device charged and accessible.",
+    "id": 5,
+    "image_url": "https://images.pexels.com/photos/3919263/pexels-photo-3919263.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "price": 29.99,
+    "title": "Smartphone Stand and Charger"
+  },
+  {
+    "carts": [],
+    "description": "Classic vintage-style sunglasses that never go out of fashion.",
+    "id": 6,
+    "image_url": "https://images.pexels.com/photos/701877/pexels-photo-701877.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "price": 19.99,
+    "title": "Vintage Style Sunglasses"
+  },
+  {
+    "carts": [],
+    "description": "Enjoy freshly ground coffee with this coffee maker featuring a built-in grinder for the perfect cup every time.",
+    "id": 7,
+    "image_url": "https://images.pexels.com/photos/6851001/pexels-photo-6851001.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "price": 89.99,
+    "title": "Coffee Maker with Grinder"
+  },
+  {
+    "carts": [],
+    "description": "Stay fit and active with this sleek fitness tracker watch that monitors your daily activities and heart rate.",
+    "id": 8,
+    "image_url": "https://images.pexels.com/photos/3766111/pexels-photo-3766111.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "price": 59.99,
+    "title": "Fitness Tracker Watch"
+  },
+  {
+    "carts": [],
+    "description": "Enhance your gaming experience with this RGB gaming keyboard and mouse combo designed for precision and performance.",
+    "id": 9,
+    "image_url": "https://images.pexels.com/photos/713831/pexels-photo-713831.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "price": 79.99,
+    "title": "Gaming Keyboard and Mouse Combo"
+  },
+  {
+    "carts": [],
+    "description": "Take your music with you wherever you go with this portable Bluetooth speaker featuring high-quality sound and long battery life.",
+    "id": 10,
+    "image_url": "https://pictures-kenya.jijistatic.com/37461559_MzAwLTMwMy0wMzVjYmRmY2Iw.webp",
+    "price": 39.99,
+    "title": "Portable Bluetooth Speaker"
+  }
+]
